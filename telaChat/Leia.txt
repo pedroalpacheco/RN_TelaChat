@@ -1,0 +1,3 @@
+Para erro 500:
+
+npm install --save-dev @babel/plugin-external-helpers
